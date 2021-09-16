@@ -8,16 +8,19 @@
 
 
 ##
-<div>
-<a href = ''https://www.linkedin.com/in/pedro-henrique-silva-de-morais-3091a619b/''target=_'blank'><img src= ''https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white''target''_blank''></a>
-  <a href = ''https://www.instagram.com/1pedr1n/?hl'' target=''_blank''><img src=''https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'' target='_blank'></a>
- </div> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WELCOME</title>
+</head>
+<body>
+    <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B"
+
+</body>
+</html>
  
   ##
-  
-  <div>
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="1pedr1N" /> 
-  </div>
-  
-  <div>
   
