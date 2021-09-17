@@ -9,6 +9,9 @@ Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
 <!DOCTYPE html>
 <html lang="en">
 
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -16,10 +19,15 @@ Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
 </head>
 
 <body>
-    <a href='mailto=fihdoleftaay@gmail.com?'>
-    <a href="Linkedin"></a>
-    <img id="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a
-        href="https://www.linkedin.com/in/pedro-henrique-silva-de-morais-3091a619b/"></a> </body>
+    <!--Email-->
+    <a href='mailto=fihdoleftaay@gmail.com?'> </a>
+<br>
+        <p id="Skills"><em>Skills</em></p>
+        <!--Bags-->
+        <a href="Linkedin"></a>
+        <img id="Linkedin"
+            src=''>
+</body>
 
 
 </html>
