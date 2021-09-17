@@ -25,9 +25,13 @@ Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
 <br>
         <p id="Skills"><em>Skills</em></p>
         <!--Bags-->
-        <a href="Linkedin"></a>
-        <img id="Linkedin"
-            src=''>
+     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://github.com/1pedr1N">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1pedr1N&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
+</div>
+    
 </body>
 
 
