@@ -1,6 +1,7 @@
 Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
 🏡Sao Paulo <br>
 🙂Ele/Dele <br>
+🎂16 years <Br>
 🎯Focado em aprender e compartilhar experiencias<br>
 📧 fihdoleftaay@gmail.com
 
@@ -31,3 +32,5 @@ Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
 
 
 </html>
+    
+   
