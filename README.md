@@ -1,10 +1,4 @@
-Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
-🏡Sao Paulo <br>
-🙂Ele/Dele <br>
-🎂16 years <Br>
-🎯Focado em aprender e compartilhar experiencias<br>
-📧 fihdoleftaay@gmail.com
-   
+
 
 
 <!DOCTYPE html>
@@ -20,6 +14,14 @@ Olá meu nome é Pedro Henrique,seja bem vindo ao meu git <br>
 </head>
 
 <body>
+   <!--apresentacao-->
+   <h3>Olá meu nome é Pedro Henrique,seja bem vindo ao meu git</h3> <br>
+<h3>🏡Sao Paulo <br> </h3>
+<h3>🙂Ele/Dele <br>
+🎂16 years <Br>
+🎯Focado em aprender e compartilhar experiencias<br>
+📧 fihdoleftaay@gmail.com
+   </h3>   
     <!--Email-->
     <a href='mailto=fihdoleftaay@gmail.com?'> </a>
     <hr>
