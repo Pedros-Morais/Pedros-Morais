@@ -18,6 +18,8 @@
           <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
          <img align='center' src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
      <img align='center'  height='30' width='40 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+       <img align='center'  height='30' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css'/>
+     
     </div> 
     
 <div >
