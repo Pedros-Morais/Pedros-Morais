@@ -20,7 +20,7 @@
       NextJS
     </div> 
     
-<div >
+<div>
   <a href="https://github.com/1pedr1N">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1pedr1N&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
