@@ -1,29 +1,31 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
-<div>
-    <div align='center'>
-    <h3>Pedro Morais⚡</h3>
-        <img src="https://media.tenor.com/RD_Ajk295VcAAAAd/chill.gif" alt="c633c20ede82f0e0ced7d570dbe3a1f3" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-    </div>
-        
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Pedro+Morais;I'm+18+years+old;I'm+from+Brazil;+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1pedr1n&bg_color=0d1117&color=483D8B&line=191970&point=191970&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-  <h2> Skills </h2>
-    
-  <div style='display: inline_block'>
- <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align='center' height='30' width='40 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          <img align='center' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-         <img align='center' src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-     <img align='center'  height='30' width='40 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-     <img align='center' height='30' width='40 ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />
-    </div> 
-      <h2> Contact :) </h2>
-    
-  <div style='display: inline_block'>
- <a href = "mailto:pedrohs.work@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-silva-de-morais-3091a619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </div> 
-    
 
+
+
+
+
+<div align="center"> 
+<a href="https://instagram.com/1pedr1n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:pedrohs.work@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/pedro-morais-3091a619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+ 
+ ### Main skills:
+ #### Next.JS, React Native, React.JS, Flutter, JS, TS, SQL, NodeJS, Dart and librarys
+
+
+
+### Studying in this moment:
+### GoLang,Java, AWS, DevOPS.
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
