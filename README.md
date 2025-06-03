@@ -1,18 +1,69 @@
-<!-- Terminal-style header -->
-```bash
- ██████╗ ███████╗██████╗ ██████╗  ██████╗     ███╗   ███╗ ██████╗ ██████╗  █████╗ ██╗███████╗
- ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗    ████╗ ████║██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝
- ██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║    ██╔████╔██║██║   ██║██████╔╝███████║██║███████╗
- ██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║    ██║╚██╔╝██║██║   ██║██╔══██╗██╔══██║██║╚════██║
- ██║     ███████╗██████╔╝██║  ██║╚██████╔╝    ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║███████║
- ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-```
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483D8B&size=22&center=true&vCenter=true&width=650&lines=SYSTEM%3A+Digital+Reality+Engineer+Online;LOADING+CREATIVE+MODULES...;INITIALIZING+CODE+SEQUENCES...;WELCOME+TO+MY+DIGITAL+UNIVERSE)](https://git.io/typing-svg)
+<!-- Animated SVG Header with Gradient Effect -->
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientText {
+					0% {
+						background-position: 0% 50%;
+					}
+					50% {
+						background-position: 100% 50%;
+					}
+					100% {
+						background-position: 0% 50%;
+					}
+				}
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 100px;
+					background: transparent;
+				}
+				.text {
+					font-size: 60px;
+					font-weight: 700;
+					font-family: 'Courier New', monospace;
+					background: linear-gradient(to right, #6a11cb 0%, #2575fc 50%, #6a11cb 100%);
+					background-size: 200% auto;
+					background-clip: text;
+					-webkit-background-clip: text;
+					-webkit-text-fill-color: transparent;
+					animation: gradientText 3s ease-in-out infinite;
+				}
+			</style>
+			<div class="container">
+				<div class="text">PEDRO MORAIS</div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
+
+<!-- Animated Terminal Effect -->
+<a href="https://github.com/Pedros-Morais" target="_blank">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=483D8B&center=true&vCenter=true&width=650&lines=SYSTEM%3A+Software+Engineer+Online;LOADING+CREATIVE+MODULES...;INITIALIZING+CODE+SEQUENCES...;WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing SVG" />
+</a>
 
 </div>
+
+<!-- Animated 3D Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%">
+
+<!-- Animated Skill Bars -->
+<div align="center">
+
+<!-- Animated Skill Bars with Hover Effect -->
+
+
+</div>
+
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
