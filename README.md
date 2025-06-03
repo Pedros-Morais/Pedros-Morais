@@ -31,7 +31,7 @@
 					font-size: 60px;
 					font-weight: 700;
 					font-family: 'Courier New', monospace;
-					background: linear-gradient(to right, #6a11cb 0%, #2575fc 50%, #6a11cb 100%);
+					background: linear-gradient(to right, #bd93f9 0%, #ff79c6 50%, #8be9fd 100%);
 					background-size: 200% auto;
 					background-clip: text;
 					-webkit-background-clip: text;
@@ -48,7 +48,7 @@
 
 <!-- Animated Terminal Effect -->
 <a href="https://github.com/Pedros-Morais" target="_blank">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=483D8B&center=true&vCenter=true&width=650&lines=SYSTEM%3A+Software+Engineer+Online;LOADING+CREATIVE+MODULES...;INITIALIZING+CODE+SEQUENCES...;WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&background=282A36&center=true&vCenter=true&width=650&lines=SYSTEM%3A+Software+Engineer+Online;LOADING+CREATIVE+MODULES...;INITIALIZING+CODE+SEQUENCES...;WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing SVG" />
 </a>
 
 </div>
@@ -69,7 +69,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- Interactive console section -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `whoami`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `🧛‍♂️ whoami`
 
 ```js
 class PedroMorais {
@@ -81,6 +81,7 @@ class PedroMorais {
     this.frameworks = ["React", "Next.js", "React Native", "Flutter", "Node.js"];
     this.passions = ["User Experience", "Interactive Experiences", "Digital Worlds"];
     this.currentFocus = "Building bridges between reality and digital dimensions";
+    this.theme = "dracula";
   }
   
   sayHi() {
@@ -93,11 +94,12 @@ me.sayHi();
 ```
 
 <!-- Tech journey visualization -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `tech --journey`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `💻 tech --journey`
 
 <div align="center">
 
 <!-- Tech journey visualization with custom styling -->
+<!-- Traditional Tech Stack Table -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -145,25 +147,71 @@ me.sayHi();
   </tr>
 </table>
 
-<!-- Currently learning section with animation -->
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="400">
-<br>
-<strong>CURRENTLY LOADING:</strong> GoLang, Java, AWS, DevOps
+<!-- 3D Skills Visualization -->
+<h3 align="center">🔮 3D Skills Galaxy</h3>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  </p>
+</div>
+
+<!-- Skills Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200"/>
+  
+  ```javascript
+  const frameworks = ['React', 'Next.js', 'Flutter'];
+  const skills = ['Frontend', 'Mobile', 'UX/UI'];
+  console.log('Building immersive experiences');
+  ```
+</div>
+
+<!-- Currently learning section -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `📚 Currently Learning`
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Go-%232300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/DevOps-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+  </p>
+  
+  <p><i>Expanding my technical expertise with these technologies to build more comprehensive solutions</i></p>
 </div>
 
 <!-- Digital worlds section -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `explore --digital-worlds`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `🌌 explore --digital-worlds`
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
 
 <br>
 
 ```css
 .pedro-morais {
+  background: #282a36;
+  color: #f8f8f2;
   specialty: "3D-interactive-experiences";
   passion: "bringing-digital-worlds-to-life";
   mission: "blur-the-line-between-reality-and-digital";
+  highlight: #8be9fd;
+  accent: #ffb86c;
 }
 ```
 
@@ -174,19 +222,19 @@ me.sayHi();
 
 
 <!-- Projects showcase -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `showcase --projects`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `🧪 showcase --projects`
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300">
 
 <br>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedros-Morais&repo=nextjs-template&theme=tokyonight)](https://github.com/Pedros-Morais/nextjs-template)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedros-Morais&repo=GS-Fiap&theme=tokyonight)](https://github.com/Pedros-Morais/GS-Fiap)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedros-Morais&repo=nextjs-template&theme=dracula)](https://github.com/Pedros-Morais/nextjs-template)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Pedros-Morais&repo=GS-Fiap&theme=dracula)](https://github.com/Pedros-Morais/GS-Fiap)
 </div>
 
 <!-- Connection section -->
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `connect --network`
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `🦇 connect --network`
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="300">
@@ -194,13 +242,13 @@ me.sayHi();
 <br>
 
 <a href="https://instagram.com/1pedr1n" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/-Instagram-%23ff79c6?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="mailto:pedrohs.work@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23282a36?style=for-the-badge&logo=gmail&logoColor=%238be9fd" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/pedro-morais-3091a619b/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
+  <img src="https://img.shields.io/badge/-LinkedIn-%236272a4?style=for-the-badge&logo=linkedin&logoColor=%23f8f8f2" style="border-radius: 30px">
 </a> 
 </div>
 
