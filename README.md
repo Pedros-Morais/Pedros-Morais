@@ -265,4 +265,11 @@ $ Thanks for exploring my digital universe! Let's create something extraordinary
 ```
 
 <img src="https://profile-counter.glitch.me/Pedros-Morais/count.svg" />
+
+<!-- Dynamic Quote Generator -->
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> `💭 Daily Inspiration`
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The+most+disastrous+thing+that+you+can+ever+learn+is+your+first+programming+language.&author=Alan+Kay" alt="Quote" />
+</div>
 </div>
