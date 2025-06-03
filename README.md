@@ -1,50 +1,13 @@
 <div align="center">
 
-<!-- Animated SVG Header with Gradient Effect -->
-<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes gradientText {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				.container {
-					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 100px;
-					background: transparent;
-				}
-				.text {
-					font-size: 60px;
-					font-weight: 700;
-					font-family: 'Courier New', monospace;
-					background: linear-gradient(to right, #bd93f9 0%, #ff79c6 50%, #8be9fd 100%);
-					background-size: 200% auto;
-					background-clip: text;
-					-webkit-background-clip: text;
-					-webkit-text-fill-color: transparent;
-					animation: gradientText 3s ease-in-out infinite;
-				}
-			</style>
-			<div class="container">
-				<div class="text">PEDRO MORAIS</div>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
+<!-- Header with Dracula Theme -->
+<div>
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=60&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=800&height=100&lines=PEDRO+MORAIS" alt="PEDRO MORAIS" />
+    </a>
+  </h1>
+</div>
 
 <!-- Animated Terminal Effect -->
 <a href="https://github.com/Pedros-Morais" target="_blank">
